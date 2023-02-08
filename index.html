@@ -55,6 +55,7 @@
     <a href="#about">About</a>
     <a href="#features">Features</a>
     <a href="#download">Download</a>
+    <a href="#forum">Forum<a href="https://quemos.site/forum/index.php" style="color: yellow;"></a>
   </nav>
   <main>
     <section id="about">
